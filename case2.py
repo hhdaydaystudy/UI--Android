@@ -2,7 +2,7 @@ import unittest
 import selenium
 import time
 from appium import webdriver
-from case import huadong
+import huadong
 
 
 class MyTestCase2(unittest.TestCase):
